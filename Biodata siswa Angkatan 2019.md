@@ -5,7 +5,7 @@
    TTL    : Ambon, 19 Agustus 2003<br>
    Alamat : Jln. Loa Bakung RT.21 No.04<br>
  
-2. Nama   : Crystal<br>
+2. Nama   : Crystal wong medan<br>
    NIM    : H2020000002<br>
    JK     : Perempuan<br>
    Agama  : Islam<br>

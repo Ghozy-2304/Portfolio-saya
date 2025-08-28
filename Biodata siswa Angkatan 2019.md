@@ -1,4 +1,4 @@
-1. Nama   : Baim Wong jowo<br>
+1. Nama   : Baim Wong<br>
    NIM    : H2020000001<br>
    JK     : Laki - Laki<br>
    Agama  : Islam<br>
